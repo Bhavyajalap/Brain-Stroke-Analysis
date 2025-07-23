@@ -1,4 +1,4 @@
-🧠 Brain Stroke Analysis & Prediction
+#🧠 Brain Stroke Analysis & Prediction
 This project aims to analyze and predict brain strokes using machine learning techniques. Brain strokes are life-threatening medical emergencies, and early prediction can be life-saving. By analyzing patient data — such as age, gender, glucose levels, and lifestyle — we can identify patterns that contribute to stroke risk and implement early preventive measures.
 
 Dataset Description
